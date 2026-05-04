@@ -46,7 +46,6 @@
     {
         "key": "ctrl+right",
         "command": "workbench.action.nextEditor"
-    }
     },
     {
         "key": "ctrl+left",
